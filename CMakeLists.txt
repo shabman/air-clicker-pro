@@ -9,6 +9,8 @@ add_subdirectory(cegui)
 add_subdirectory(cegui-dependencies)
 add_subdirectory(glm)
 
+find_package(glm REQUIRED)
+
 target_include_directories(${PROJECT_NAME} PUBLIC cegui/cegui/include)
 target_link_directories(${PROJECT_NAME} PRIVATE cegui/cegui/src)
 
