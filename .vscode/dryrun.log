@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/mustafamalik/Documents/air_clicker_pro'
+g++ -std=c++14 src/main.cpp
+make: Leaving directory `/Users/mustafamalik/Documents/air_clicker_pro'
+ 
