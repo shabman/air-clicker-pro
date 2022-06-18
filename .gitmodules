@@ -1,6 +1,0 @@
-[submodule "cegui"]
-	path = cegui
-	url = https://github.com/cegui/cegui.git
-[submodule "cegui-dependencies"]
-	path = cegui-dependencies
-	url = https://github.com/cegui/cegui-dependencies.git
